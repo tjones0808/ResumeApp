@@ -1,11 +1,14 @@
 {
-  "name": "angular-seed",
+  "name": "resumeAPp",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "repository": "https://github.com/tjones0808/ResumeApp",
   "license": "MIT",
-  "devDependencies": {
+   "engines": {
+    "node": "0.12.7"
+  },
+  "dependencies": {
     "karma": "~0.10",
     "protractor": "~0.20.1",
     "http-server": "^0.6.1",
